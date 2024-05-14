@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasnrey
 - 👀 I’m interested in new jobs.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/lucasnrey
 
